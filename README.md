@@ -1,73 +1,58 @@
-# 📚 Module 7 - HTML & CSS Practice Collection
+#  Module 7 - HTML & CSS Practice Collection
 
 This repository contains multiple practice files created while learning HTML and CSS fundamentals. Each file focuses on a specific concept such as Flexbox, Grid, Media Query, Responsive Design, and Form layout.
 
----
 
-## 🌐 Live Preview
-
-👉 Add your live link here (if deployed)
-
----
-
-## 📌 Project Overview
+##  Project Overview
 
 This repository is not a single project. It is a **collection of practice exercises** to understand different CSS layout systems and responsive design techniques.
 
 Each file demonstrates a specific concept used in real-world web development.
 
----
 
-## 📂 Files Included
+##  Files Included
 
-### 📅 calender.html
+###  calender.html
 - Built using **CSS Grid**
 - Displays a structured calendar layout
 - Practice of grid columns and rows
 
----
 
-### 📦 flexbox.html
+###  flexbox.html
 - Demonstrates **Flexbox layout**
 - Shows alignment, direction, and wrapping
 - Helps understand container and item behavior
 
----
 
-### 🔲 grid.html
+###  grid.html
 - Practice of **CSS Grid (2D layout)**
 - Uses rows and columns system
 - Demonstrates spacing and alignment
 
----
 
-### 🔐 login-form.html
+###  login-form.html
 - Simple **login form design**
 - Includes navbar and input fields
 - Practice of form layout and alignment
 
----
 
-### 📱 media-query.html
+###  media-query.html
 - Responsive **food card layout**
 - Uses **media queries**
 - Adjusts layout for mobile and tablet devices
 
----
 
-### 🖼️ media.html
+###  media.html
 - Grid-based layout with images
 - Basic responsive behavior
 - Practice of grid + media query
 
----
 
-### 🌍 responsive-website.html
+###  responsive-website.html
 - Simple **responsive layout example**
 - Uses Flexbox + Media Query
 - Demonstrates column to row conversion
 
----
 
 ## 🎯 Project Purpose
 
