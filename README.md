@@ -54,7 +54,7 @@ Each file demonstrates a specific concept used in real-world web development.
 - Demonstrates column to row conversion
 
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 This repository was created as part of my learning journey. It helped me:
 
@@ -64,29 +64,17 @@ This repository was created as part of my learning journey. It helped me:
 - Build form layouts  
 - Improve HTML structure and CSS styling  
 
----
 
-## 🛠️ Technologies Used
+##  Key Learning Outcomes
 
-- HTML5  
-- CSS3  
-- Flexbox  
-- CSS Grid  
-- Media Queries  
+-  Flexbox (1D layout system)  
+-  Grid (2D layout system)  
+-  Responsive design techniques  
+-  Layout alignment and spacing  
+-  Component-based thinking  
 
----
 
-## ✨ Key Learning Outcomes
-
-- 📦 Flexbox (1D layout system)  
-- 🔲 Grid (2D layout system)  
-- 📱 Responsive design techniques  
-- 🎯 Layout alignment and spacing  
-- 🧩 Component-based thinking  
-
----
-
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/MdBelayet3/Module-7
